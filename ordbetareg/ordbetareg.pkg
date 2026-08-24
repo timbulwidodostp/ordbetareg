@@ -1,4 +1,6 @@
-D 'interflex': Multiplicative interaction models diagnostics and visualization Use interflex With STATA 19
+D 'ordbetareg': Ordered Beta Regression Model Use ordbetareg With STATA 19
 D
-F interflex.ado
-F interflex.sthlp
+F ord_beta_ll.ado
+F ordbetareg.ado
+F ordbetareg.sthlp
+F ordbetareg_p.ado
