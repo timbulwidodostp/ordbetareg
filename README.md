@@ -1,6 +1,8 @@
 # ordbetareg
 Ordered Beta Regression Model Use ordbetareg With STATA 19
 
+https://www.youtube.com/watch?v=oMcD53nXBsk
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
